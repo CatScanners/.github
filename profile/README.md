@@ -1,6 +1,4 @@
-# 🛸 CatScanners
-
-**Autonomous Drone for Search and Rescue**
+![LOGO](./LOGO.png)
 
 Welcome to **CatScanners**, an open-source robotics group developing intelligent autonomous drones for animal search and rescue missions. Our flagship project **find-my-kitten** is focused on detecting and following cats in disaster zones using cutting-edge technology.
 
